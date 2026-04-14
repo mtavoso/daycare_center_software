@@ -33,7 +33,7 @@ Le projet propose une plateforme numérique centralisée permettant :
 - De visualiser les plannings en temps réel
 - De suivre l’état émotionnel des enfants
 
-L’objectif est de réduire la charge administrative et d’améliorer la qualité de gestion globale :contentReference[oaicite:1]{index=1}
+L’objectif est de réduire la charge administrative et d’améliorer la qualité de gestion globale.
 
 ## Fonctionnalités principales
 
@@ -45,7 +45,7 @@ L’objectif est de réduire la charge administrative et d’améliorer la quali
 - Détection automatique des conflits (absences simultanées)
 - Visualisation via un calendrier partagé
 
-Le système génère également des alertes en cas de problème (chevauchement, modification, etc.) :contentReference[oaicite:2]{index=2}
+Le système génère également des alertes en cas de problème (chevauchement, modification, etc.).
 
 
 ### 2. Suivi du bien-être des enfants
@@ -104,9 +104,6 @@ Le projet aboutit à :
 
 - Implémentation concrète du système
 - Ajout d’une interface utilisateur complète
-- Intégration avec des systèmes existants
-- Analyse avancée des données (IA, prédiction)
-
 
 ## Auteurs
 
