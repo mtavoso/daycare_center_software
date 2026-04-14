@@ -23,6 +23,11 @@ Les structures de garde d’enfants font face à plusieurs difficultés :
 
 Ces problèmes peuvent entraîner une dégradation de la qualité de service et du bien-être des enfants.
 
+## Environnement 
+
+Le projet se déroule dans une équipe internationale, qui implique une communication en anglais. 
+
+La méthodologie Scrum a été employée
 
 ## Solution proposée
 
