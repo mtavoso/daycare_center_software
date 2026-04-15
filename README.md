@@ -19,7 +19,6 @@ Les structures de garde d’enfants font face à plusieurs difficultés :
 - Absences imprévues du personnel
 - Mauvaise coordination des plannings
 - Charge de travail excessive pour la direction
-- Risque d’erreurs dû à des प्रक्रessus manuels :contentReference[oaicite:0]{index=0}
 
 Ces problèmes peuvent entraîner une dégradation de la qualité de service et du bien-être des enfants.
 
@@ -27,7 +26,7 @@ Ces problèmes peuvent entraîner une dégradation de la qualité de service et 
 
 Le projet se déroule dans une équipe internationale, qui implique une communication en anglais. 
 
-La méthodologie Scrum a été employée
+La méthodologie Scrum a été employée.
 
 ## Solution proposée
 
